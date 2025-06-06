@@ -1,0 +1,51 @@
+model: "Typhoon V1 (SDXL)"
+
+base_generation:
+  resolution:
+    default: "1024x1024"
+    portrait_recommendations:
+      - "896x1152"
+      - "832x1216"
+    landscape_recommendations:
+      - "1152x896"
+      - "1216x832"
+    note: "Avoid ultrawide or ultra-tall resolutions due to artifacts"
+
+  cfg_scale:
+    recommended_range: [3.5, 5.5]
+    default: 4.0
+    note: "Higher values may reduce fidelity and introduce artifacts"
+
+  sampler:
+    preferred:
+      - "DPM++ 2M Karras"
+      - "DPM++ SDE Karras"
+    avoid:
+      - "DDIM"
+
+  steps:
+    recommended_range: [25, 35]
+    note: "Lower steps reduce detail; higher adds refinement"
+
+refiner:
+  use_refiner: false
+  note: "Typhoon SDXL is not compatible with the SDXL refiner"
+
+hires_fix:
+  enable: "Optional (only for sizes > 1024px)"
+  denoising_strength: [0.4, 0.6]
+  upscale_method:
+    - "Latent"
+    - "ESRGAN (optional)"
+  second_pass_cfg: "Same as or slightly higher than initial CFG"
+  recommended_upscale: "1.5x"
+  note: "2x upscaling is heavy and may introduce noise"
+
+vae:
+  use_vae: false
+  note: "SDXL includes internal VAE; external VAEs are not needed"
+
+quirks:
+  prompt_limitations: "Avoid overloading prompts; keep them short and focused"
+  merging: "Model is not merge-safe; do not combine with other checkpoints or LoRAs"
+  third_party_sites: "Expect unstable behavior; local use is strongly recommended"
