@@ -1,21 +1,45 @@
-MIT License
+Typhoon - Model License (Based on CreativeML Open RAIL-M License)
 
-Copyright (c) 2025 Raxephion
+This model is distributed under the CreativeML OpenRAIL-M license, with the following additional restrictions and notes:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ADDITIONAL CONDITIONS:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. This model is intended for **personal, private use only**.
+2. Do not upload this model to third-party image generation services or public inference sites **without express permission** from the creator.
+3. **Merging this model** with others or using it in merged checkpoints is **not allowed** — doing so will compromise its carefully tuned aesthetic and functionality.
+4. Redistribution of this model (in whole or part, modified or not) without permission is prohibited.
+5. Do not use Typhoon to create derivative models, embeds, fine-tunes, or LoRAs — **unless explicitly approved** by the creator.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+COMMERCIAL LICENSE STATUS:
+
+The creator of this model holds a commercial license granted by Stability AI, which allows for free commercial use of Stability AI products and models up to $1,000,000 in annual revenue. This includes the legal use of the base Stable Diffusion model used in the creation of this finetuned version.
+
+---
+
+Below is the full text of the original CreativeML OpenRAIL-M license:
+
+CreativeML Open RAIL-M License  
+Version 1.0
+
+This model is distributed under the RAIL license. The RAIL license places restrictions on certain use cases to prevent misuse while encouraging open and responsible AI development and deployment.
+
+**Permissions**:
+- You can use the model weights and model architecture for commercial and non-commercial purposes.
+- You can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the model.
+
+**Conditions**:
+- You must include this license file in all copies or substantial portions of the model.
+- You must not use the model or its derivatives in any way that violates any applicable law or regulation or for any unlawful purpose.
+
+**Limitations**:
+- The model is provided "as is", without warranty of any kind.
+- The authors and copyright holders shall not be held liable for any claim, damages, or other liability arising from the use of this model.
+
+**Additional Restrictions**:
+- You agree not to use the model for the purpose of exploiting or harming others, including but not limited to generating misleading information, harassment, or content that could cause social harm.
+
+By using this model, you agree to the terms and conditions set forth in this license.
+
+---
+
+For more details, visit: https://huggingface.co/spaces/CompVis/stable-diffusion-license
