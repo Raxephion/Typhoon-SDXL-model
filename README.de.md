@@ -157,4 +157,4 @@ Es hilft, Rechenleistung, Kaffee und katastrophale Merge-Experimente zu decken.
 
 ---
 
-### 🌩️ Genießen Sie das filmische Chaos.
+### 🌩️ Genießen Sie den Sturm
