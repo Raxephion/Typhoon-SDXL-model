@@ -157,4 +157,4 @@ It helps cover compute, coffee, and catastrophic merge experiments.
 
 ---
 
-### 🌩️ Enjoy the cinematic chaos.
+### 🌩️ Enjoy the storm!
