@@ -95,7 +95,7 @@ Sie erhalten kräftige Grafiken mit Tiefe, reicher Beleuchtung und glatten, aber
 
 Alle Bilder wurden **nativ** mit Typhoon SDXL ohne externe LoRAs, Inpainting oder Fixierer generiert. Was Sie sehen, ist reine Modellausgabe.
 
-<table> <tr> <td><img src="./images/typhoonxl_0001.png" width="160"/></td> <td><img src="./images/typhoonxl_0002.png" width="160"/></td> <td><img src="./images/typhoonxl_0003.png" width="160"/></td> <td><img src="./images/typhoonxl_0004.png" width="160"/></td> <td><img src="./images/typhoonxl_0005.png" width="160"/></td> </tr> </table>
+<table> <tr> <td><img src="./images/00003.png" width="160"/></td> <td><img src="./images/00006.png" width="160"/></td> <td><img src="./images/00008.png" width="160"/></td> <td><img src="./images/00015.png" width="160"/></td> <td><img src="./images/00020.png" width="160"/></td> </tr> <tr> <td><img src="./images/00024.png" width="160"/></td> <td><img src="./images/00031.png" width="160"/></td> <td><img src="./images/00033.png" width="160"/></td> <td><img src="./images/00034.png" width="160"/></td> <td><img src="./images/00035.png" width="160"/></td> </tr> </table>
 
 ---
 
