@@ -95,7 +95,7 @@ You’ll get bold visuals with depth, rich lighting, and smooth but defined surf
 
 All images generated **natively** using Typhoon SDXL without external LoRAs, inpainting, or fixers. What you see is pure model output.
 
-<table> <tr> <td><img src="./images/typhoonxl_0001.png" width="160"/></td> <td><img src="./images/typhoonxl_0002.png" width="160"/></td> <td><img src="./images/typhoonxl_0003.png" width="160"/></td> <td><img src="./images/typhoonxl_0004.png" width="160"/></td> <td><img src="./images/typhoonxl_0005.png" width="160"/></td> </tr> </table>
+<table> <tr> <td><img src="./images/00003.png" width="160"/></td> <td><img src="./images/00006.png" width="160"/></td> <td><img src="./images/00008.png" width="160"/></td> <td><img src="./images/00015.png" width="160"/></td> <td><img src="./images/00020.png" width="160"/></td> </tr> <tr> <td><img src="./images/00024.png" width="160"/></td> <td><img src="./images/00031.png" width="160"/></td> <td><img src="./images/00033.png" width="160"/></td> <td><img src="./images/00034.png" width="160"/></td> <td><img src="./images/00035.png" width="160"/></td> </tr> </table>
 
 ---
 
